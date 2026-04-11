@@ -1,18 +1,12 @@
-<h1 align="center">campbell.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"追随你的极乐，宇宙会为你打开一扇扇原本没有门的墙上的门。"</em><br>
-  <em>—— 约瑟夫·坎贝尔</em>
-</p>
+# campbell.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/campbell-skill"><img src="https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square" alt="Claude Code Skill"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="https://github.com/Panmax/campbell-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/campbell-skill?style=flat-square" alt="Stars"></a>
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-<p align="center"><strong>让 Claude 以约瑟夫·坎贝尔的视角回应——用神话的叙事照亮现实人生，带你走上属于你自己的英雄之旅。</strong></p>
-
+</div>
 ---
 
 ## 效果示例
@@ -83,10 +77,12 @@ campbell-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>以坎贝尔的英雄之旅照亮你的人生——每一段旅程都是一个神话。</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
